@@ -26,7 +26,12 @@ Answer the following questions:
 ## Useful links and resources
 
 Add useful links and resources corresponding to this project.
+ https://www.w3schools.com 
+ https://mimo.org
+ https://www.theodinproject.com
+ https://www.sololearn.com/en/
 
 ## Example projects
 
 Add one or more examples of projects that have similar functionality to this application. This will act as a developer guide.
+
